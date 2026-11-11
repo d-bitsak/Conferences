@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "status": "not_started",
+  "owner_ref": null,
+  "requested_usage": null,
+  "requested_channels": [],
+  "permission_ref": null,
+  "bindings": {
+    "bootstrap_ref": null,
+    "config_ref": null,
+    "state_ref": null
+  },
+  "checkpoints": [
+    {
+      "id": "capabilities",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "preferences",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "connections",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "preview",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "storage",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "bootstrap",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "authorization",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "routes",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "discovery_run",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "retry_run",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "configuration_readback",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    }
+  ],
+  "blockers": [],
+  "updated_at": null
+}

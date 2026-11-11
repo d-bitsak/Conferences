@@ -1,0 +1,4 @@
+interface:
+  display_name: "Силовой тренер — универсальная версия"
+  short_description: "Тренировки, дневник и необязательные отчёты WHOOP"
+  default_prompt: "Используй $coach-strength-training, чтобы настроить силового тренера и показать карточку готовности."

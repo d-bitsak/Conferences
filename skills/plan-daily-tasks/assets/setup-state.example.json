@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "status": "not_started",
+  "owner_ref": null,
+  "requested_features": [],
+  "bindings": {
+    "bootstrap_ref": null,
+    "config_ref": null,
+    "state_ref": null
+  },
+  "checkpoints": [
+    {
+      "id": "preferences",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "task_sources",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "source_completeness",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "calendar",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "preview",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "number_map",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "private_storage",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "bootstrap",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "state_reservation",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "today_mapping",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "write_permission",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "schedule",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "delivery",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "readback",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    }
+  ],
+  "blockers": [],
+  "updated_at": null
+}

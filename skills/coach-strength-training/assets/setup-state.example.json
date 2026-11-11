@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "status": "not_started",
+  "owner_ref": null,
+  "requested_features": [],
+  "bindings": {
+    "bootstrap_ref": null,
+    "config_ref": null,
+    "diary_ref": null
+  },
+  "checkpoints": [
+    {
+      "id": "preferences",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "plan_and_history",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "current_constraints",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "diary_schema",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "diary_write",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "private_storage",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "bootstrap",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "whoop_connection",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "paid_permission",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "reservation_guard",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "evening_schedule",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "delivery",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    },
+    {
+      "id": "readback",
+      "status": "not_checked",
+      "evidence_refs": [],
+      "checked_at": null,
+      "reason": null
+    }
+  ],
+  "blockers": [],
+  "updated_at": null
+}

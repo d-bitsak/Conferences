@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "mode": "REVIEW",
+  "owner_ref": null,
+  "timezone": null,
+  "language": "ru",
+  "sources": [],
+  "calendar_enabled": false,
+  "calendars": [],
+  "output_channel_ref": null,
+  "permissions": {
+    "read_tasks_ref": null,
+    "read_calendar_ref": null,
+    "write_focus_ref": null,
+    "mutate_tasks_ref": null,
+    "automation_ref": null
+  },
+  "selection": {
+    "policy": "focus_only",
+    "write_source_ids": []
+  },
+  "state_ref": null,
+  "bootstrap_ref": null,
+  "setup_ref": null,
+  "automation": {
+    "enabled": false,
+    "local_time": null,
+    "schedule_ref": null,
+    "delivery_ref": null,
+    "active_since": null
+  },
+  "state_guard": {
+    "kind": null,
+    "ref": null,
+    "verified": false
+  }
+}

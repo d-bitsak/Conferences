@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "mode": "REVIEW",
+  "timezone": "UTC",
+  "language": "ru",
+  "owner": {
+    "display_name": null,
+    "verified_identity_refs": []
+  },
+  "source": {
+    "provider": "user_file",
+    "account_ref": null,
+    "classify_before_transcript": false
+  },
+  "calendar": {
+    "provider": null,
+    "account_ref": null,
+    "calendar_ids": [],
+    "recipient_policy": "all_invited"
+  },
+  "authorization": {
+    "active_since": null,
+    "permission_ref": null,
+    "allow_backfill": false
+  },
+  "journal": {
+    "store_ref": null,
+    "conditional_write_verified": false
+  },
+  "waiting": {
+    "interval_minutes": [
+      5,
+      15,
+      30,
+      60
+    ],
+    "max_wait_hours": 24
+  },
+  "projects": [],
+  "default_routes": [],
+  "channels": {
+    "email": {
+      "enabled": false,
+      "provider": null,
+      "account_ref": null,
+      "sender": null,
+      "permission_ref": null,
+      "include_recording_password": false,
+      "active_since": null
+    },
+    "owner_chat": {
+      "enabled": false,
+      "provider": null,
+      "destination_ref": null,
+      "permission_ref": null,
+      "include_recording_password": false,
+      "active_since": null
+    },
+    "own_tasks": {
+      "enabled": false,
+      "provider": null,
+      "profile_ref": null,
+      "destination_ref": null,
+      "permission_ref": null,
+      "active_since": null
+    },
+    "summary_api": {
+      "enabled": false,
+      "contract_ref": null,
+      "auth_connection_ref": null,
+      "destination_ref": null,
+      "permission_ref": null,
+      "include_recording_password": false,
+      "active_since": null
+    },
+    "archive": {
+      "enabled": false,
+      "provider": null,
+      "destination_ref": null,
+      "contract_ref": null,
+      "permission_ref": null,
+      "include_recording_password": false,
+      "active_since": null
+    }
+  },
+  "setup_ref": null,
+  "automation": {
+    "enabled": false,
+    "bootstrap_ref": null,
+    "discovery": {
+      "kind": null,
+      "run_ref": null
+    },
+    "retry_queue": {
+      "run_ref": null,
+      "interval_minutes": null
+    }
+  }
+}

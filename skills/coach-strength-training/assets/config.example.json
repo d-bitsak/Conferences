@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "mode": "REVIEW",
+  "owner_ref": null,
+  "timezone": null,
+  "language": "ru",
+  "profile": {
+    "goal": null,
+    "experience": null,
+    "frequency": null,
+    "session_minutes": null,
+    "equipment": [],
+    "constraints_ref": null
+  },
+  "sources": {
+    "plan_ref": null,
+    "history_refs": []
+  },
+  "permissions": {
+    "read_sources_ref": null,
+    "write_training_ref": null,
+    "store_wellbeing_ref": null,
+    "whoop_and_spend_ref": null,
+    "evening_ref": null
+  },
+  "diary": {
+    "enabled": false,
+    "provider": null,
+    "ref": null,
+    "table_mapping_ref": null
+  },
+  "whoop": {
+    "enabled": false,
+    "provider": "ifttt",
+    "connection_ref": null,
+    "account_ref": null,
+    "budget_ref": null,
+    "max_attempts_per_day": 3,
+    "test_permission_ref": null,
+    "credit_state_ref": null,
+    "active_since": null
+  },
+  "reservation": {
+    "kind": null,
+    "ref": null,
+    "verified": false
+  },
+  "evening": {
+    "enabled": false,
+    "local_time": null,
+    "schedule_ref": null,
+    "delivery_ref": null,
+    "active_since": null
+  },
+  "bootstrap_ref": null,
+  "setup_ref": null
+}

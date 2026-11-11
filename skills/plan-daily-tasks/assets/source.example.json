@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "adapter_ref": null,
+  "account_ref": null,
+  "user_id": null,
+  "allowed_scope": null,
+  "read_contract_ref": null,
+  "pagination_ref": null,
+  "status_mapping": {},
+  "week_context_ref": null,
+  "today_mapping": {
+    "verified": false,
+    "operation_ref": null,
+    "target_ref": null,
+    "semantics_ref": null
+  },
+  "write": {
+    "enabled": false,
+    "permission_ref": null,
+    "contract_ref": null
+  }
+}
